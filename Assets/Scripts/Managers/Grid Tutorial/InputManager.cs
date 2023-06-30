@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class InputManager : MonoBehaviour
 {
@@ -15,6 +17,19 @@ public class InputManager : MonoBehaviour
     
     //To decide which plane takes part on the input detection of the mouse position on our plane
     private LayerMask placementaLayermask;
+
+    public event Action OnClicked, OnExit;
+
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+            OnClicked?.Invoke();
+        if (Input.GetKeyDown(KeyCode.Escape))
+            OnExit?.Invoke();
+    }
+
+    public bool IsPointerOverUI()
+    => EventSystem.current.IsPointerOverGameObject();
 
     public Vector3 GetSelectedMapPosition()
     {

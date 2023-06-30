@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3587b6194f0d3b4468b6e6cae0b243fe, type: 3}
+  m_Name: UnitDatabasePrefab
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Eduardo III
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 7566080558195542776, guid: be86e617cb2f0ff46a7a9a7359d49192,
+      type: 3}
+  - <Name>k__BackingField: Enrique V
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3676640984140606025, guid: e5cd3289b1b1df94897076c93de2a8ce,
+      type: 3}
+  - <Name>k__BackingField: Leonor De Aquitania
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 0}
+    <Prefab>k__BackingField: {fileID: 7880261702129355167, guid: 41ea98ae33c31364e83413fad78f3f21,
+      type: 3}
+  - <Name>k__BackingField: Gilles De Rais
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 0}
+  - <Name>k__BackingField: Jeanne D'Arc
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 0, y: 0}
+    <Prefab>k__BackingField: {fileID: 3863555382500592163, guid: 9daad91e2779b014d84c686238d227e5,
+      type: 3}
+  - <Name>k__BackingField: Jeanne Hachette
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4711298117037975625, guid: 0c4109b330a5c944888fa9cbd9d3a980,
+      type: 3}
