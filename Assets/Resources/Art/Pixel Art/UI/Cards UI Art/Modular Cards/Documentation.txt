@@ -1,0 +1,28 @@
+	Documentation.
+
+	Pixel Life Studio.
+
+	Thank you for purchasing our product, in this Asset you will find a good solution 
+	to create and elaborate your 2D Cards with a modular system that will bring a lot of variation.
+
+	We offer a robust tool and high quality content for make your dream project come to reality.
+
+	Feel free to contact us if you need any assistance with this asset, or to report a bug.
+
+	All files are ready to go and saved in their respective folders for you'r convinicence.
+	All Textures and Sprites saved in "Sprites Texture Folder".
+
+	If you dont want to have multiple objects/sprite renderers to a single card you can export the files to
+	a image editor of your choice all files are .PNG transparency format.
+		
+	Files format .PNG transparency
+
+	Animations ready to use.
+
+
+	Feel free to modify any sprite or animation to give your personal touch.
+
+	This asset includes.
+	Modular Cards KIT
+
+	NO CODE INCLUDED/NEEDED ON THIS ASSET.

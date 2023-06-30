@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TileSet3.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "TileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileSet3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileSetTBS.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/mas_c/OneDrive/Escritorio/Unity Projects Desktop/RhaegarI - Juego de mesa/CardGame-Rhaegar/Cartas - RGP/Assets/Tilemap",
+    "map.height": 64,
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 32,
+    "map.width": 64,
+    "openFiles": [
+        "TileSet3.tsx"
+    ],
+    "project": "Tilemap for cardgame.tiled-project",
+    "recentFiles": [
+        "TileSet3.tsx",
+        "TileSetTBS.tsx",
+        "TileSet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
